@@ -16,8 +16,6 @@ The website is designed to showcase projects, skills, and achievements, but it i
 
 Frontend: HTML, CSS, JavaScript
 
-Frameworks: Bootstrap (basic)
-
 🚀 Future Scope
 
 📱 Add responsiveness for mobile & tablet screens
@@ -27,3 +25,4 @@ Frameworks: Bootstrap (basic)
 🔗 Add hosting support for live demo
 
 ⚡ This project is mainly for practice and learning purposes.
+
